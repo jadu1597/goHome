@@ -36,7 +36,7 @@ header{
 	position: absolute;
 	margin-left: 67%;
 	width : 30%;
-	border:1px solid black;
+
 	background:#F4F2F3;
 }
 #but{
